@@ -126,5 +126,4 @@ Enables data-driven decisions through interactive visuals
 
 # Dashboard Image::
 
-<img width="1167" height="700" alt="Customer Shopping Behavior Analysis image" src="https://github.com/user-attachments/assets/c06f356e-5453-43d1-9c87-23435767ad55" />
 
