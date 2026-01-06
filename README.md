@@ -1,11 +1,13 @@
-📊 Customer Shopping Behavior Analysis – Power BI Dashboard
-📌 Project Overview
+# 📊 Customer Shopping Behavior Analysis – Power BI Dashboard
+
+# 📌 Project Overview
 
 This project focuses on analyzing customer shopping behavior using an end-to-end data analytics workflow. The goal is to uncover meaningful insights from customer and transaction data to support data-driven business decisions, improve sales strategy, and enhance customer retention.
 
 The analysis is visualized through an interactive Power BI dashboard, enabling stakeholders to explore trends, patterns, and performance metrics dynamically.
 
-🎯 Business Objective
+
+# 🎯 Business Objective
 
 Understand customer purchasing behavior
 
@@ -17,7 +19,7 @@ Evaluate customer engagement based on subscription status
 
 Support strategic decision-making using data insights
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Power BI – Dashboard development & visualization
 
@@ -30,20 +32,23 @@ Excel / CSV – Source data format
 EDA – Exploratory Data Analysis
 
 
-🔄 Data Analytics Workflow
-1️⃣ Business Understanding
+# 🔄 Data Analytics Workflow
+
+# 1️⃣ Business Understanding
 
 Defined analytical goals and success metrics
 
 Identified KPIs aligned with business performance
 
-2️⃣ Data Extraction & Querying (SQL)
+
+# 2️⃣ Data Extraction & Querying (SQL)
 
 Extracted customer and transaction data
 
 Applied joins, filters, and aggregations for analysis
 
-3️⃣ Data Cleaning & Preparation
+
+# 3️⃣ Data Cleaning & Preparation
 
 Removed missing and inconsistent values
 
@@ -55,7 +60,8 @@ Customer segments
 
 Aggregated sales metrics
 
-4️⃣ Exploratory Data Analysis (EDA)
+
+# 4️⃣ Exploratory Data Analysis (EDA)
 
 Analyzed customer demographics vs spending behavior
 
@@ -63,7 +69,8 @@ Explored purchase patterns across categories and age groups
 
 Identified key contributors to revenue
 
-5️⃣ Dashboard Development (Power BI)
+
+# 5️⃣ Dashboard Development (Power BI)
 
 Built an interactive Power BI dashboard with slicers
 
@@ -79,7 +86,7 @@ Product category
 
 Shipping type
 
-📊 Key KPIs
+# 📊 Key KPIs
 
 Total Customers: 3,900
 
@@ -91,7 +98,7 @@ Average Order Value (AOV): 59.76
 
 Average Review Rating: 3.75
 
-📈 Key Insights
+# 📈 Key Insights
 
 Subscribed customers contribute a higher share of total revenue
 
@@ -105,7 +112,8 @@ Line charts highlight revenue trends across product categories clearly
 
 Customer spending behavior varies significantly by age group and subscription status
 
-✅ Business Impact
+
+# ✅ Business Impact
 
 Identifies high-value and loyal customers
 
@@ -116,7 +124,7 @@ Helps businesses focus on customer retention strategies
 Enables data-driven decisions through interactive visuals
 
 
-Dashboard Image::
+# Dashboard Image::
 
 <img width="1167" height="700" alt="Customer Shopping Behavior Analysis image" src="https://github.com/user-attachments/assets/c06f356e-5453-43d1-9c87-23435767ad55" />
 
